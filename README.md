@@ -18,7 +18,7 @@ Activités 2 cours j2e screens , code
 <img width="832" alt="prodRepo" src="https://github.com/toxicell/JEE_Activitie1/assets/118931084/4ab83bf6-e01b-4962-95e2-9a44304cb3bb">
 
 
-**Package presentation** 
+**Project app** 
 <img width="854" alt="PrjAppPRES" src="https://github.com/toxicell/JEE_Activitie1/assets/118931084/c1b82a55-c6c3-4317-a728-99c1616140fe">
 
 **datbase product-db**
